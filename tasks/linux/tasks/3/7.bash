@@ -10,7 +10,7 @@ Rammstain_Sonne.mp3
 КИНО_Звезда_По_Имени_Солнце_ReMiX.mp3
 
 Вывод: КИНО_Кукушка.mp3
-'''
+''''''
 
 
-find -name "*mp3" -name "КИНО" -not -iname "*remix*"
+find -name "*mp3" -name "*КИНО*" -not -iname "*remix*"
